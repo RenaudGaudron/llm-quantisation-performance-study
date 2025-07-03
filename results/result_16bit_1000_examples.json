@@ -1,0 +1,401 @@
+{
+    "high_school_physics": {
+        "accuracy": 0.6923076923076923,
+        "number_examples": 13,
+        "execution_time": 364.059,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "global_facts": {
+        "accuracy": 0.4,
+        "number_examples": 5,
+        "execution_time": 52.88,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "machine_learning": {
+        "accuracy": 0.6666666666666666,
+        "number_examples": 6,
+        "execution_time": 81.284,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "professional_accounting": {
+        "accuracy": 0.52,
+        "number_examples": 25,
+        "execution_time": 586.329,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "marketing": {
+        "accuracy": 0.7058823529411765,
+        "number_examples": 17,
+        "execution_time": 239.264,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "conceptual_physics": {
+        "accuracy": 0.8260869565217391,
+        "number_examples": 23,
+        "execution_time": 505.649,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "electrical_engineering": {
+        "accuracy": 0.8,
+        "number_examples": 10,
+        "execution_time": 229.116,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "high_school_biology": {
+        "accuracy": 0.8695652173913043,
+        "number_examples": 23,
+        "execution_time": 318.023,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "high_school_macroeconomics": {
+        "accuracy": 0.6,
+        "number_examples": 25,
+        "execution_time": 712.256,
+        "used_VRAM": 4656,
+        "total_VRAM": 8188
+    },
+    "formal_logic": {
+        "accuracy": 0.5,
+        "number_examples": 10,
+        "execution_time": 524.49,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "medical_genetics": {
+        "accuracy": 0.875,
+        "number_examples": 8,
+        "execution_time": 73.72,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "computer_security": {
+        "accuracy": 0.8,
+        "number_examples": 5,
+        "execution_time": 50.148,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "abstract_algebra": {
+        "accuracy": 0.6363636363636364,
+        "number_examples": 11,
+        "execution_time": 298.984,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "college_physics": {
+        "accuracy": 0.75,
+        "number_examples": 12,
+        "execution_time": 568.243,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "high_school_mathematics": {
+        "accuracy": 0.8,
+        "number_examples": 20,
+        "execution_time": 783.981,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "human_aging": {
+        "accuracy": 0.6470588235294118,
+        "number_examples": 17,
+        "execution_time": 165.993,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "philosophy": {
+        "accuracy": 0.782608695652174,
+        "number_examples": 23,
+        "execution_time": 547.395,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "high_school_us_history": {
+        "accuracy": 0.6875,
+        "number_examples": 16,
+        "execution_time": 324.606,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "high_school_government_and_politics": {
+        "accuracy": 0.6923076923076923,
+        "number_examples": 13,
+        "execution_time": 171.481,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "sociology": {
+        "accuracy": 0.8181818181818182,
+        "number_examples": 11,
+        "execution_time": 213.236,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "international_law": {
+        "accuracy": 0.3333333333333333,
+        "number_examples": 9,
+        "execution_time": 164.86,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "college_medicine": {
+        "accuracy": 0.8333333333333334,
+        "number_examples": 12,
+        "execution_time": 342.032,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "clinical_knowledge": {
+        "accuracy": 0.8,
+        "number_examples": 15,
+        "execution_time": 275.497,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "econometrics": {
+        "accuracy": 0.4444444444444444,
+        "number_examples": 9,
+        "execution_time": 365.568,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "management": {
+        "accuracy": 0.7142857142857143,
+        "number_examples": 7,
+        "execution_time": 106.545,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "moral_disputes": {
+        "accuracy": 0.65,
+        "number_examples": 20,
+        "execution_time": 342.541,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "prehistory": {
+        "accuracy": 0.6176470588235294,
+        "number_examples": 34,
+        "execution_time": 618.486,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "high_school_computer_science": {
+        "accuracy": 1.0,
+        "number_examples": 6,
+        "execution_time": 115.129,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "virology": {
+        "accuracy": 0.42857142857142855,
+        "number_examples": 14,
+        "execution_time": 236.96,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "human_sexuality": {
+        "accuracy": 0.875,
+        "number_examples": 8,
+        "execution_time": 142.246,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "high_school_world_history": {
+        "accuracy": 0.8260869565217391,
+        "number_examples": 23,
+        "execution_time": 351.309,
+        "used_VRAM": 4674,
+        "total_VRAM": 8188
+    },
+    "professional_medicine": {
+        "accuracy": 0.5882352941176471,
+        "number_examples": 17,
+        "execution_time": 311.926,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "miscellaneous": {
+        "accuracy": 0.6140350877192983,
+        "number_examples": 57,
+        "execution_time": 671.55,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "high_school_chemistry": {
+        "accuracy": 0.625,
+        "number_examples": 16,
+        "execution_time": 560.894,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "business_ethics": {
+        "accuracy": 0.8,
+        "number_examples": 5,
+        "execution_time": 124.95,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "logical_fallacies": {
+        "accuracy": 0.7,
+        "number_examples": 10,
+        "execution_time": 147.386,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "world_religions": {
+        "accuracy": 0.8181818181818182,
+        "number_examples": 11,
+        "execution_time": 120.919,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "moral_scenarios": {
+        "accuracy": 0.4852941176470588,
+        "number_examples": 68,
+        "execution_time": 1179.007,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "high_school_psychology": {
+        "accuracy": 0.8918918918918919,
+        "number_examples": 37,
+        "execution_time": 478.607,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "elementary_mathematics": {
+        "accuracy": 0.9166666666666666,
+        "number_examples": 24,
+        "execution_time": 417.402,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "security_studies": {
+        "accuracy": 0.5,
+        "number_examples": 18,
+        "execution_time": 373.476,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "nutrition": {
+        "accuracy": 0.7,
+        "number_examples": 20,
+        "execution_time": 277.916,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "anatomy": {
+        "accuracy": 0.5555555555555556,
+        "number_examples": 9,
+        "execution_time": 205.812,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "professional_law": {
+        "accuracy": 0.3944954128440367,
+        "number_examples": 109,
+        "execution_time": 3718.557,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "high_school_statistics": {
+        "accuracy": 0.5,
+        "number_examples": 16,
+        "execution_time": 612.862,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "jurisprudence": {
+        "accuracy": 0.9,
+        "number_examples": 10,
+        "execution_time": 218.848,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "high_school_microeconomics": {
+        "accuracy": 0.7333333333333333,
+        "number_examples": 15,
+        "execution_time": 402.294,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "college_biology": {
+        "accuracy": 0.625,
+        "number_examples": 8,
+        "execution_time": 190.945,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "high_school_european_history": {
+        "accuracy": 0.7692307692307693,
+        "number_examples": 13,
+        "execution_time": 191.618,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "college_mathematics": {
+        "accuracy": 0.8,
+        "number_examples": 5,
+        "execution_time": 174.115,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "high_school_geography": {
+        "accuracy": 0.6666666666666666,
+        "number_examples": 12,
+        "execution_time": 151.121,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "professional_psychology": {
+        "accuracy": 0.7027027027027027,
+        "number_examples": 37,
+        "execution_time": 596.063,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "public_relations": {
+        "accuracy": 0.5,
+        "number_examples": 8,
+        "execution_time": 91.291,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "college_computer_science": {
+        "accuracy": 0.75,
+        "number_examples": 8,
+        "execution_time": 102.624,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "us_foreign_policy": {
+        "accuracy": 0.75,
+        "number_examples": 4,
+        "execution_time": 63.512,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "astronomy": {
+        "accuracy": 0.8,
+        "number_examples": 5,
+        "execution_time": 82.776,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    },
+    "college_chemistry": {
+        "accuracy": 0.5,
+        "number_examples": 8,
+        "execution_time": 298.788,
+        "used_VRAM": 4676,
+        "total_VRAM": 8188
+    }
+}

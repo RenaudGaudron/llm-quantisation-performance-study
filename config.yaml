@@ -1,0 +1,17 @@
+# config.yaml
+
+model:
+  name: "Qwen/Qwen3-1.7B"
+  max_new_tokens: 3000
+  quantization: 16bit
+  batch_status: False
+  batch_size: 1
+
+dataset:
+  name: "cais/mmlu"
+  number_examples: 1000
+  number_subjects: 999 # All topics
+
+paths:
+  results: "./results/result_" 
+  logs: "./logs/log_"
