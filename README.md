@@ -11,7 +11,7 @@ This repository provides the code and resources for analysing the impact of quan
 
 ## Introduction
 
-This project is a companion to the article "The impact of quantisation on a small Open Source LLM", delving into the practical implications of applying quantisation techniques to small open source LLMs. This repository aims to provide a clear, reproducible methodology for assessing these trade-offs using the Qwen3 1.7B model (or any other Open Source LLM available on Huggingface) and the MMLU benchmark.
+This project is a companion to the article "The impact of quantising a small open source LLM", delving into the practical implications of applying quantisation techniques to small open source LLMs. This repository aims to provide a clear, reproducible methodology for assessing these trade-offs using the Qwen3 1.7B model (or any other Open Source LLM available on Huggingface) and the MMLU benchmark.
 
 ## Features
 
